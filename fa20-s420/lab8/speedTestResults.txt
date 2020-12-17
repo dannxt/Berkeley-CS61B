@@ -1,0 +1,6 @@
+(RandomInsert) N: 10000
+
+ULLHashMap: 0.52, Javabuiltin: 0.01
+
+(InOrderInsert) N: 10000
+ULLHashMap: 1.55, Javabuiltin: 0.02

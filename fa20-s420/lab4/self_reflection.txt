@@ -1,0 +1,63 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: Using a wrapper helper function with the implementation of a circular array.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: The efficiency of array utilization is not 100%, unlike that of a circular array. My resizing methods will kick in when array utilization is 50%.
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: The implementation of a circular ArrayDeque, and how their wrapper methods are done.
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A:
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I would spend more time to implement the circular array.
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: 
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: People use all sorts of helper methods to make their code more readable and breaking them into smaller parts.
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: 
